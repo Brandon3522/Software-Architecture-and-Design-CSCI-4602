@@ -1,0 +1,15 @@
+{
+  "name": "hwk1-resistance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Sitz",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^6.0.58",
+    "readline-sync": "^1.4.5"
+  }
+}
